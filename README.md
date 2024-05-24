@@ -25,11 +25,14 @@ Nebst dem "administrativen" Teil war es auch schwierig, die Probleme beim Coden 
 
 **BENUTZTE RESSOURCEN**
 
+Für den Einstieg in die Thematik haben wir mit den Übungen und Video-Tutorials auf Moodle uns auf diese Aufgabe und Leistungsnachweis vorbereitet.
 
-Wir haben das ganze mit Hilfe von folgenden Ressourcen gemeistert:
-- Übungen und Video-Tutorials auf Moodle
-- Unterricht und Coaching vor Ort 
-- ChatGPT
-- Copilot
-- Hilfe von Tutoren wie Yannick S. 
-- Teamarbeit innerhalb dieser Gruppe
+ChatGPT und Copilot: Hilfsmittel für unseren HTML und CSS Code
+
+Tutoren und Coaches: Bei Unklarheiten oder Problemen konnten wir vor Ort entweder auf Nick zugehen oder einem Tutor wie Yannick S. 
+  
+Node.js: Eine Laufzeitumgebung für die Ausführung von JavaScript-Code außerhalb eines Webbrowsers. Node.js wurde verwendet, um serverseitige Logik zu implementieren und Aufgaben im Zusammenhang mit der Entwicklung von Webanwendungen zu automatisieren.
+
+Tailwind CSS: Ein Framework zur schnellen Erstellung von benutzerdefinierten Designs. Unsere Konfigurationsdatei (tailwind.config.js) ermöglichte es uns, Tailwind anzupassen und benutzerdefinierte Stile zu implementieren.
+
+
